@@ -23,7 +23,7 @@ namespace ConsoleApp_Hello
                         }
                     }
                     if (prima)
-                        Console.WriteLine(i);
+                        Console.WriteLine("Bilangan ini " + i + " adalah prima" );
                     prima = true;
                 }
             }
